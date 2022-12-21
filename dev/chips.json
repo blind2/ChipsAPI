@@ -1,0 +1,22 @@
+[
+    {  
+        "nom":"Classic Potato Chips",
+        "description": "La mission de Lay’s est de vous offrir des chips savoureuses pour égayer vos apéritifs, vos barbecues d’été ou encore pour accompagner un sandwich. Régalez-vous avec de délicieuses chips fines et croustillantes et découvrez toute l’étendue de nos saveurs.",
+        "marque": "Lays",
+        "lipides": 10,
+        "glucides": 10,
+        "proteines": 2,
+        "fibres": 1,
+        "sucres": 1,
+        "fer": 1,
+        "ingredients": ["Patate", "Huile végétale","Sel"],
+        "discontinue": false,
+        "dateCreationMarque": "1932-09-25",
+        "telephone": "800-376-2257",
+        "createurInformation": {
+            "nom": "George Crum",
+            "dateNaissance": "1824-08-15",
+            "activite": ["Chef cuisinier", "Inventeur"]
+        }
+    }
+]
